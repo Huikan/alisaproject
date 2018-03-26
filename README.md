@@ -1,0 +1,1 @@
+This a simple Django application for AliCloud.
